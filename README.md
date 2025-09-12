@@ -41,13 +41,18 @@ Implication: Marketing should highlight the value of weekday commuting to casual
 
 ## Repository Contents
 ─ caseStudy_bikeShare_notebook.Rmd
+
 ─ caseStudy_bikeShare.pdf
+
 ─ trips_cleaned.csv
+
 ─ caseStudy_bikeShare_rScript.R
+
 ─ README.md
 
 
 ## Author
 Benjamin Cabrera Villegas
+
 https://www.linkedin.com/in/benjamincabreravillegas/
 
