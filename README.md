@@ -18,9 +18,11 @@ Identify behavioral insights that support marketing strategies to convert casual
 <img width="562" height="348" alt="1totalTripsByRiderTypePerYear" src="https://github.com/user-attachments/assets/fa94b9e4-5ab7-4bd0-8f3c-698e8533dd12" />
 <br />
 <br />
+<br />
 
 - Casual riders ride less often (longer, variable trips, concentrated on weekends and leisure areas.
 <img width="561" height="347" alt="3rideLengthDistributionCasual2019" src="https://github.com/user-attachments/assets/48057577-0fd3-450a-8318-9114fd60b22f" />
+<br />
 <br />
 <br />
 
@@ -28,9 +30,11 @@ Identify behavioral insights that support marketing strategies to convert casual
 <img width="563" height="347" alt="10commuteWindowShare" src="https://github.com/user-attachments/assets/66ac30cc-a136-4f77-95a0-c63456ce3c84" />
 <br />
 <br />
+<br />
 
 - Top stations differ by group (members near transit hubs, casuals near parks/tourists attractions.
 <img width="563" height="349" alt="11topStartStations" src="https://github.com/user-attachments/assets/b4bb785b-9558-43ce-8e18-6c3d0a021769" />
+<br />
 <br />
 <br />
 
@@ -45,11 +49,9 @@ Marketing should highlight the value of weekday commuting to casual riders.
    - Removed nulls, standardized time formats, added derived fields (weekday, hour of day, ride length).
    - Exported a clean dataset (trips_cleaned.csv)
 <br />
-<br />
 
 2. SQL Exploration
    - Queries for total trips, ride length quartiles, weekday patterns, commute windows, and top stations.
-<br />
 <br />
 
 3. R Visualization
@@ -58,11 +60,9 @@ Marketing should highlight the value of weekday commuting to casual riders.
    - Bar Charts for Weekday Usage and Commute KPIs.
    - Faceted Bar Charts for Top Start Stations.
 <br />
-<br />
   
 4. Reporting
    - Results consolidated in a reproducible RMarkdown Notebook exported as PDF and HTML.
-<br />
 <br />
 
 
@@ -74,6 +74,8 @@ Marketing should highlight the value of weekday commuting to casual riders.
 ─ trips_cleaned.csv
 
 ─ caseStudy_bikeShare_rScript.R
+
+- caseStudy_bikeShare_notebook.html
 
 ─ README.md
 <br />
