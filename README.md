@@ -8,9 +8,10 @@ Comparing member vs. casual rider behavior with SQL + R
 This project explores Q1 2019-2020 Cyclistic bike-share data to uncover how annual members and casual riders differ in usage.
 The analysis combines BigQuery (SQL) for data cleaning and aggregation with R (tidyverse) for visualization and reporting.
 
-The ultimate goal: identify behavioral insights that support marketing strategies to convert casual riders into members.
-
-
+### The ultimate goal:
+Identify behavioral insights that support marketing strategies to convert casual riders into members.
+&NewLine
+&NewLine
 ## Key Insights
 
 - Members take the majority of trips (frequent, short, consistent rides aligned with commuting.
