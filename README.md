@@ -10,8 +10,10 @@ The analysis combines BigQuery (SQL) for data cleaning and aggregation with R (t
 
 ### The ultimate goal:
 Identify behavioral insights that support marketing strategies to convert casual riders into members.
-&NewLine
-&NewLine
+` `  
+` `  
+` `  
+
 ## Key Insights
 
 - Members take the majority of trips (frequent, short, consistent rides aligned with commuting.
