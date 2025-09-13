@@ -13,13 +13,20 @@ The ultimate goal: identify behavioral insights that support marketing strategie
 
 ## Key Insights
 - Members take the majority of trips (frequent, short, consistent rides aligned with commuting.
+<img width="562" height="348" alt="1totalTripsByRiderTypePerYear" src="https://github.com/user-attachments/assets/fa94b9e4-5ab7-4bd0-8f3c-698e8533dd12" />
+
 - Casual riders ride less often (longer, variable trips, concentrated on weekends and leisure areas.
+<img width="561" height="347" alt="3rideLengthDistributionCasual2019" src="https://github.com/user-attachments/assets/48057577-0fd3-450a-8318-9114fd60b22f" />
+
 - Commute KPI: Over 50% of member trips happen durng 7-9 Am and 4-6 PM, vs. ~30% for casual riders.
+<img width="563" height="347" alt="10commuteWindowShare" src="https://github.com/user-attachments/assets/66ac30cc-a136-4f77-95a0-c63456ce3c84" />
+
 - Top stations differ by group (members near transit hubs, casuals near parks/tourists attractions.
+<img width="563" height="349" alt="11topStartStations" src="https://github.com/user-attachments/assets/b4bb785b-9558-43ce-8e18-6c3d0a021769" />
+
 
 Implication: Marketing should highlight the value of weekday commuting to casual riders. 
 
-<img width="561" height="347" alt="3rideLengthDistributionCasual2019" src="https://github.com/user-attachments/assets/f5ee9782-fedd-4b01-b16e-94dc56d8a623" />
 
 ## Analysis Workflow
 1. Data Cleaning
