@@ -19,6 +19,7 @@ The ultimate goal: identify behavioral insights that support marketing strategie
 
 Implication: Marketing should highlight the value of weekday commuting to casual riders. 
 
+<img width="561" height="347" alt="3rideLengthDistributionCasual2019" src="https://github.com/user-attachments/assets/f5ee9782-fedd-4b01-b16e-94dc56d8a623" />
 
 ## Analysis Workflow
 1. Data Cleaning
