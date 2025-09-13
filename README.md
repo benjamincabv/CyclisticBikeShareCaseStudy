@@ -1,14 +1,14 @@
 # CyclisticBikeShareCaseStudy
 
-Cyclistic Bike-Share Case Study
+## Cyclistic Bike-Share Case Study
 
-Comparing member vs. casual rider behavior with SQL + R
+### Comparing Member vs. Casual Rider Behavior with SQL + R
 
 ## Project Summary
 This project explores Q1 2019-2020 Cyclistic bike-share data to uncover how annual members and casual riders differ in usage.
 The analysis combines BigQuery (SQL) for data cleaning and aggregation with R (tidyverse) for visualization and reporting.
 
-### The ultimate goal:
+### The Ultimate Goal:
 Identify behavioral insights that support marketing strategies to convert casual riders into members.
 <br />
 <br />
@@ -45,23 +45,23 @@ Marketing should highlight the value of weekday commuting to casual riders.
 <br />
 
 ## Analysis Workflow
-1. Data Cleaning
+### 1. Data Cleaning
    - Removed nulls, standardized time formats, added derived fields (weekday, hour of day, ride length).
    - Exported a clean dataset (trips_cleaned.csv)
 <br />
 
-2. SQL Exploration
+### 2. SQL Exploration
    - Queries for total trips, ride length quartiles, weekday patterns, commute windows, and top stations.
 <br />
 
-3. R Visualization
+### 3. R Visualization
    - Histograms for ride length distribution.
    - Line Charts for Hourly Patterns.
    - Bar Charts for Weekday Usage and Commute KPIs.
    - Faceted Bar Charts for Top Start Stations.
 <br />
   
-4. Reporting
+### 4. Reporting
    - Results consolidated in a reproducible RMarkdown Notebook exported as PDF and HTML.
 <br />
 
@@ -82,7 +82,7 @@ Marketing should highlight the value of weekday commuting to casual riders.
 <br />
 
 ## Author
-Benjamin Cabrera Villegas
-
+### Benjamin Cabrera Villegas
+#### Data Analyst
 https://www.linkedin.com/in/benjamincabreravillegas/
 
