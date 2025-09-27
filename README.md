@@ -73,11 +73,11 @@ Marketing should highlight the value of weekday commuting to casual riders.
 
 ─ trips_cleaned.csv
 
-- caseStudy_bikeShare_rScript.R
+─ caseStudy_bikeShare_rScript.R
 
-- caseStudy_bikeShare_notebook.html
+─ caseStudy_bikeShare_notebook.html
 
-- README.md
+─ README.md
 <br />
 <br />
 
